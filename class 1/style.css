@@ -1,0 +1,11 @@
+    /* p{
+       color: red;
+    } */
+    .text{
+        color: red; 
+        padding: 20px;
+        border: 20px solid blue;
+    }
+    #heading{
+        color:blue;
+    }

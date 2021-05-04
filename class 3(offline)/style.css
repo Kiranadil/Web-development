@@ -1,0 +1,19 @@
+.container{
+    background-color: aqua;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+button{
+    background-color: #635fa0;
+    color: cornsilk;
+    /* height: 20px; */
+    padding: 10px;
+    /* margin: 20px; */
+}
+.button-1{
+   display: block;
+    }
+.button-2{
+/* display: block;  */
+}
